@@ -12,7 +12,9 @@
   <img align="center" alt="Anna-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="right" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62353098/186284590-111c6ecb-0ad7-4827-841b-577d139ad99a.png">
 </div>
-  ##
+
+##
+
 <div> 
   <a href="https://instagram.com/annaflaviavassalo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoannaflavia.vassalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
